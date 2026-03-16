@@ -32,7 +32,7 @@ Key variables used:
 - Household size
 - Sector (Rural / Urban)
 - State
-
+**Note:** Due to data security and usage restrictions from the NSSO microdata portal, the dataset is **not included in this repository**. Users can download the dataset directly from the official portal and run the analysis scripts provided in this project.
 ---
 
 # Data Processing
@@ -128,5 +128,13 @@ Key result:
 - dplyr
 - sf
 - tidyverse
+
+---
+## Feedback & Contact
+
+Feel free to share your feedback, suggestions, or reviews.  
+You can also connect with me on **LinkedIn**:
+
+https://www.linkedin.com/in/vijay-chander-16182433b/
 
 ---
