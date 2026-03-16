@@ -32,8 +32,8 @@ Key variables used:
 - Household size
 - Sector (Rural / Urban)
 - State
---
-**Note:** Due to data security and usage restrictions from the NSSO microdata portal, the dataset is **not included in this repository**. Users can download the dataset directly from the official portal and run the analysis scripts provided in this project.
+--- 
+#Note: Due to data security and usage restrictions from the NSSO microdata portal, the dataset is **not included in this repository**. Users can download the dataset directly from the official portal and run the analysis scripts provided in this project.
 ---
 
 # Data Processing
